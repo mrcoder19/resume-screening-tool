@@ -38,8 +38,10 @@ resume-screening-tool/
 - **├── README.md ← This file**
 - **├── sample_resumes/ ← (Optional) Sample resumes**
 
+---
 
-- **👨‍💻 Author**
+
+**👨‍💻 Author**
 - **Fahim Ullah**
 - **Email: fahimullah8800@gmail.com**
 - **LinkedIn: View Profile**
