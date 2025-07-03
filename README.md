@@ -32,9 +32,14 @@ _You can upload a screenshot here showing the app interface._
 ## 📁 Folder Structure
 
 resume-screening-tool/
-│
--├── app.py ← Main Streamlit app
--├── requirements.txt ← Python dependencies
--├── README.md ← This file
--├── sample_resumes/ ← (Optional) Sample resumes
+**│**
+**├── app.py ← Main Streamlit app**
+**├── requirements.txt ← Python dependencies**
+**├── README.md ← This file**
+**├── sample_resumes/ ← (Optional) Sample resumes**
 
+
+👨‍💻 Author
+Fahim Ullah
+Email: fahimullah8800@gmail.com
+LinkedIn: View Profile
