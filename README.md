@@ -33,8 +33,8 @@ _You can upload a screenshot here showing the app interface._
 
 resume-screening-tool/
 │
-├── app.py ← Main Streamlit app
-├── requirements.txt ← Python dependencies
-├── README.md ← This file
-├── sample_resumes/ ← (Optional) Sample resumes
+-├── app.py ← Main Streamlit app
+-├── requirements.txt ← Python dependencies
+-├── README.md ← This file
+-├── sample_resumes/ ← (Optional) Sample resumes
 
